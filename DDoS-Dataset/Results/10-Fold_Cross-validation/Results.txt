@@ -1,0 +1,44 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.LibSVM -S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -model /home/michele/bin/weka-3-8-0 -seed 1
+Relation:     anomalous-traffic-weka.filters.unsupervised.attribute.Remove-R1-2,6-10
+Instances:    11079
+Attributes:   4
+              cd
+              lle
+              sampen
+              class
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 0.49 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       10973               99.0432 %
+Incorrectly Classified Instances       106                0.9568 %
+Kappa statistic                          0.8632
+Mean absolute error                      0.0096
+Root mean squared error                  0.0978
+Relative absolute error                 13.4389 %
+Root relative squared error             51.8751 %
+Total Number of Instances            11079     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.996    0.147    0.994      0.996    0.995      0.863    0.924     0.994     normal
+                 0.853    0.004    0.884      0.853    0.868      0.863    0.924     0.759     anomaly
+Weighted Avg.    0.990    0.141    0.990      0.990    0.990      0.863    0.924     0.986     
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+ 10624    46 |     a = normal
+    60   349 |     b = anomaly
+
+

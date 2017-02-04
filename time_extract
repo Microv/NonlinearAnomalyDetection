@@ -1,0 +1,11 @@
+grep -i 'arppoison\|mailbomb\|neptune\|processtable\|smurf\|sshprocesstable\|tcpreset\|udpstorm\|dictionary\|insidesniffer\|ipsweep\|ls_domain\|mscan\|ntinfoscan\|nmap\|queso\|resetscan\|saint\|satan\|illegalsniffer\|portsweep' master_identifications.list -B1 -A3 | sed '/Name/d' | sed '/Category/d' | cut -d ' ' -f 2 | awk 'NR%2{printf "%s ",$0;next}{print;}' | awk 'NR%2{printf "%s\n",$0;next;}{printf "01/01/1970 %s\n",$1;}' | while read line; do TZ=America/New_York date -d "$line" +"%s"; done | awk '{if((NR%2)) {sum=$1} else {sum+=$1} print sum}'
+
+
+grep '<Tag>Attack</Tag>' -B2 TestbedMonJun14Flows.xml | grep -o '<startDateTime>.*</startDateTime>' | sed -n 's:<startDateTime>\(.*\)</startDateTime>:\1:p' | sed 's/T/ /g'| while read line; do TZ=Canada/Atlantic date -d "$line" +"%s"; done
+
+
+echo 'Time;Packets;CD;LLE;SampEn;rec;det;ent;trend;lam;label' > nonlinear.csv && tail -n +17 nonlinear.arff > f1 && awk -F'.' '{print $1}' f1 | while read line; do TZ=Canada/Atlantic date -d@"$line" +%H:%M:%S; done > f2 && awk -F',' -v OFS=';' 'FNR==NR{a[NR]=$1;next}{$1=a[FNR]}1' f2 f1  >> nonlinear.csv && rm f1 f2 && cat nonlinear.csv
+
+awk -F';' '{print $1}' FNFP.csv | while read line; do TZ=Canada/Atlantic date -d@"$line" +%D-%H:%M:%S; done > f1 && awk -F';' -v OFS=';' 'FNR==NR{a[NR]=$1;next}{$1=a[FNR]}1' f1 FNFP.csv > FNFP-date.csv && rm f1
+
+awk -F';' '{print $2}' FNFP.csv > f1 && awk -F';' '{print $1}' FNFP.csv | while read line; do TZ=Canada/Atlantic date -d@"$line" +%D-%H:%M:%S; done > f2 && pr -mts';' f2 f1 > FNFP_time.csv && rm f1 f2

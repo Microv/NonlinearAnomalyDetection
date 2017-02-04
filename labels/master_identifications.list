@@ -1,0 +1,2624 @@
+ID: 41.084031
+Date: 03/29/1999
+Name: ps
+Category: u2r
+Start_Time: 08:18:35
+Duration: 00:46:05
+Attacker: 209.154.098.104
+Victim: 172.016.112.050
+Username: haraldl
+Ports:
+	At_Attacker: 80{1}, 6000{2} 
+	At_Victim: 23{3} 
+
+ID: 41.084818
+Date: 03/29/1999
+Name: sendmail
+Category: r2l
+Start_Time: 08:48:12
+Duration: 00:00:02
+Attacker: 202.049.244.010
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 113{1} 
+	At_Victim: 25{1} 
+
+ID: 41.090000
+Date: 03/29/1999
+Name: New_Attack_1999 (ntfsdos)
+Category: r2l
+Start_Time: 09:08:00
+Duration: 00:08:00
+Attacker: 172.16.112.100
+Victim: 172.16.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{2} 
+
+ID: 41.091531
+Date: 03/29/1999
+Name: portsweep
+Category: probe
+Start_Time: 09:15:05
+Duration: 00:20:32
+Attacker: 172.016.118.020
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{1}, 80{1}, 143{1} 
+
+ID: 41.093708
+Date: 03/29/1999
+Name: New_Attack_1999 (sshtrojanInstall)
+Category: r2l
+Start_Time: 09:36:23
+Duration: 00:05:23
+Attacker: 202.077.162.213
+Victim: 172.016.114.050
+Username: virginil anonymous failed: host
+Ports:
+	At_Attacker: 20{3}, 113{1} 
+	At_Victim: 23{1}, 25{1} 
+
+ID: 41.111531
+Date: 03/29/1999
+Name: portsweep
+Category: probe
+Start_Time: 11:15:15
+Duration: 00:04:01
+Attacker: 172.016.118.050
+Victim: 192.168.001.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 21-22{1}, 25{1}, 80{1}, 513{1} 
+
+ID: 41.112127
+Date: 03/29/1999
+Name: xsnoop
+Category: r2l
+Start_Time: 11:22:43
+Duration: 00:01:17
+Attacker: 128.223.199.068
+Victim: 172.016.114.168
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 6000{1} 
+
+ID: 41.114554
+Date: 03/29/1999
+Name: snmpget
+Category: r2l
+Start_Time: 11:45:12
+Duration: 00:33:31
+Attacker: 204.097.153.043
+Victim: 172.016.000.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 161/u{501} 
+
+ID: 41.114703
+Date: 03/29/1999
+Name: guesstelnet
+Category: r2l
+Start_Time: 11:47:16
+Duration: 00:00:10
+Attacker: 192.005.041.239
+Victim: 172.016.113.050
+Username: emonc
+Ports:
+	At_Attacker: 
+	At_Victim: 23{7} 
+
+ID: 41.122222
+Date: 03/29/1999
+Name: portsweep
+Category: probe
+Start_Time: 12:22:15
+Duration: 00:05:01
+Attacker: 153.107.252.061
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 137/u{1} 
+	At_Victim: i{1}, 21-22{1}, 25{1}, 80{1} 
+
+ID: 41.133333
+Date: 03/29/1999
+Name: guessftp
+Category: r2l
+Start_Time: 13:33:16
+Duration: 00:00:22
+Attacker: 172.016.118.070
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 1050-1052{1}, 1054{1}, 1104{1} 
+	At_Victim: 21{5} 
+
+ID: 41.135830
+Date: 03/29/1999
+Name: ftpwrite
+Category: r2l
+Start_Time: 13:58:16
+Duration: 00:05:45
+Attacker: 194.027.251.021
+Victim: 172.016.112.050
+Username: 513/tcp , anonymous
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1}, 513{1} 
+
+ID: 41.155048
+Date: 03/29/1999
+Name: New_Attack_1999 (yaga)
+Category: u2r
+Start_Time: 15:50:15
+Duration: 04:13:06
+Attacker: 172.016.118.070
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{2}, 80{1} 
+
+ID: 41.161308
+Date: 03/29/1999
+Name: crashiis
+Category: dos
+Start_Time: 16:13:08
+Duration: 00:00:05
+Attacker: 172.016.118.070
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 41.162715
+Date: 03/29/1999
+Name: portsweep
+Category: probe
+Start_Time: 16:27:10
+Duration: 00:04:56
+Attacker: 202.077.162.213
+Victim: 172.016.114.169
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 21{2}, 23{2}, 25{2}, 79{2}, 143{2} 
+	
+
+ID: 41.182453
+Date: 03/29/1999
+Name: New_Attack_1999 (secret)
+Category: data
+Start_Time: 18:24:19
+Duration: 00:08:41
+Attacker: 195.115.218.108
+Victim: 172.016.112.050
+Username: abramh tty
+Ports:
+	At_Attacker: 25{1} 
+	At_Victim: 23{1}, 113{1} 
+
+ID: 41.213446
+Date: 03/29/1999
+Name: smurf
+Category: dos
+Start_Time: 21:34:16
+Duration: 00:00:11
+Attacker: 006.238.105.108
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{398} 
+
+ID: 42.090909
+Date: 03/30/1999
+Name: httptunnel
+Category: r2l
+Start_Time: 09:09:17
+Duration: 00:02:39
+Attacker: 197.182.091.233
+Victim: 172.016.112.050
+Username: rexn o format login /var/adm/lastlog
+Ports:
+	At_Attacker: 20-21{1} 
+	At_Victim: 23{1} 
+
+ID: 42.094131
+Date: 03/30/1999
+Name: phf
+Category: r2l
+Start_Time: 09:41:12
+Duration: 00:00:01
+Attacker: 202.247.224.089
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 42.104107
+Date: 03/30/1999
+Name: loadmodule
+Category: u2r
+Start_Time: 10:41:12
+Duration: 00:26:10
+Attacker: 194.027.251.021
+Victim: 172.016.113.050
+Username: marlyy
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 42.112913
+Date: 03/30/1999
+Name: ps
+Category: u2r
+Start_Time: 11:29:17
+Duration: 00:35:52
+Attacker: 206.222.003.197
+Victim: 172.016.112.050
+Username: bramy
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1}, 23{1} 
+
+ID: 42.120000
+Date: 03/30/1999
+Name: New_Attack_1999 (ntfsdos)
+Category: r2l
+Start_Time: 12:00:00
+Duration: 00:10:00
+Attacker: 172.16.112.100
+Victim: 172.16.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{1} 
+
+ID: 42.122248
+Date: 03/30/1999
+Name: New_Attack_1999 (secret)
+Category: data
+Start_Time: 12:22:13
+Duration: 00:52:29
+Attacker: 197.218.177.069
+Victim: 172.016.114.050
+Username: quintond p0 TTY
+Ports:
+	At_Attacker: 20-21{1}, 25{1}, 113{1} 
+	At_Victim: 23{1}, 25{1}, 113{1} 
+
+ID: 42.135452
+Date: 03/30/1999
+Name: sqlattack
+Category: r2l
+Start_Time: 13:54:17
+Duration: 00:01:09
+Attacker: 207.253.084.013
+Victim: 172.016.112.194
+Username: db3
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 42.143228
+Date: 03/30/1999
+Name: New_Attack_1999 (sechole)
+Category: u2r
+Start_Time: 14:32:15
+Duration: 05:04:52
+Attacker: 205.160.208.190
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20{2}, 21{1}, 23{2} 
+
+ID: 42.145441
+Date: 03/30/1999
+Name: land
+Category: dos
+Start_Time: 14:54:10
+Duration: 00:00:01
+Attacker: 172.016.113.050
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 42.155148
+Date: 03/30/1999
+Name: mailbomb
+Category: dos
+Start_Time: 15:51:16
+Duration: 00:11:24
+Attacker: 194.027.251.021
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: i{1}, 25{3}, 110{1}, 113{200} 
+	At_Victim: 25{200} 
+
+ID: 42.174944
+Date: 03/30/1999
+Name: processtable
+Category: dos
+Start_Time: 17:49:15
+Duration: 00:03:01
+Attacker: 208.240.124.083
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 22{352} 
+
+ID: 42.210410
+Date: 03/30/1999
+Name: crashiis
+Category: dos
+Start_Time: 21:04:10
+Duration: 00:00:07
+Attacker: 209.001.012.046
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 43.080401
+Date: 03/31/1999
+Name: satan
+Category: probe
+Start_Time: 08:04:14
+Duration: 00:00:13
+Attacker: 209.030.070.014
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: i{2}, 113{1} 
+	At_Victim: i{1}, 21{1}, 23{2}, 25{1}, 70{1}, 
+	79{6}, 80{1}, 111{1}, 119{1}, 540{1}, 
+	6000{1}, 177/u{1} 
+
+ID: 43.084000
+Date: 03/31/1999
+Name: New_Attack_1999 (netcat)
+Category: r2l
+Start_Time: 09:26:12
+Duration: 00:00:04
+Attacker: 207.230.054.203
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 137/u{1} 
+	At_Victim: i{1}, 25{1} 
+
+ID: 43.093814
+Date: 03/31/1999
+Name: imap
+Category: r2l
+Start_Time: 09:38:13
+Duration: 00:00:53
+Attacker: 208.254.251.132
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 143{1} 
+
+ID: 43.100000
+Date: 03/31/1999
+Name: New_Attack_1999 (ppmarcro)
+Category: r2l
+Start_Time: 10:14:36
+Duration: 00:13:01
+Attacker: 194.027.251.021
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 137/u{1} 
+	At_Victim: i{1}, 25{1}, 80{6} 
+
+ID: 43.101313
+Date: 03/31/1999
+Name: processtable
+Category: dos
+Start_Time: 10:13:18
+Duration: 00:28:02
+Attacker: 172.016.118.060
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{367} 
+
+ID: 43.103931
+Date: 03/31/1999
+Name: fdformat
+Category: u2r
+Start_Time: 10:38:00
+Duration: 00:03:00
+Attacker: console
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 43.110000
+Date: 03/31/1999
+Name: New_Attack_1999 (netcat)
+Category: r2l
+Start_Time: 11:11:08
+Duration: 00:00:32
+Attacker: 206.048.044.018
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 53{1} 
+
+ID: 43.111111
+Date: 03/31/1999
+Name: New_Attack_1999 (warezmaster)
+Category: dos
+Start_Time: 11:25:39
+Duration: 00:00:47
+Attacker: 202.027.121.118
+Victim: 172.016.112.050
+Username: anonymous
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1} 
+
+ID: 43.113032
+Date: 03/31/1999
+Name: New_Attack_1999 (arppoison)
+Category: probe
+Start_Time: 11:30:13
+Duration: 00:11:21
+Attacker: 172.016.118.020
+Victim: 172.016.113.050
+Username: randip
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 43.114500
+Date: 03/31/1999
+Name: ncftp
+Category: r2l
+Start_Time: 12:12:38
+Duration: 00:01:29
+Attacker: 152.169.215.104
+Victim: 172.016.114.050
+Username: bramy anonymous
+Ports:
+	At_Attacker: 20{6}, 21{1}, 25{1} 
+	At_Victim: 23{1}, 113{1} 
+
+ID: 43.122854
+Date: 03/31/1999
+Name: New_Attack_1999 (secret)
+Category: data
+Start_Time: 12:28:15
+Duration: 00:08:12
+Attacker: 196.037.075.158
+Victim: 172.016.112.050
+Username: elmoc tty
+Ports:
+	At_Attacker: 20-21{1} 
+	At_Victim: 23{1} 
+
+ID: 43.125900
+Date: 03/31/1999
+Name: named
+Category: r2l
+Start_Time: 13:00:32
+Duration: 00:05:10
+Attacker: 194.007.248.153
+Victim: 172.016.112.020
+Username: katjab
+Ports:
+	At_Attacker: 6000{1} 
+	At_Victim: 53{1} 
+
+ID: 43.134223
+Date: 03/31/1999
+Name: guessftp
+Category: r2l
+Start_Time: 13:42:16
+Duration: 00:01:56
+Attacker: 208.240.124.083
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 21{75} 
+
+ID: 43.144547
+Date: 03/31/1999
+Name: smurf
+Category: dos
+Start_Time: 18:29:25
+Duration: 00:00:01
+Attacker: 001.012.120.006
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{253} 
+
+ID: 43.155357
+Date: 03/31/1999
+Name: guest
+Category: r2l
+Start_Time: 15:53:15
+Duration: 00:02:43
+Attacker: 209.012.013.144
+Victim: 172.016.112.050
+Username: guest 3025 3118 3072
+Ports:
+	At_Attacker: 
+	At_Victim: 23{9} 
+
+ID: 43.164334
+Date: 03/31/1999
+Name: portsweep
+Category: probe
+Start_Time: 16:43:15
+Duration: 00:03:54
+Attacker: 208.240.124.083
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 19{1}, 79{1}, 143{1} 
+
+ID: 43.165422
+Date: 03/31/1999
+Name: mailbomb
+Category: dos
+Start_Time: 16:54:17
+Duration: 00:03:01
+Attacker: 194.007.248.153
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{150} 
+
+ID: 43.175811
+Date: 03/31/1999
+Name: guesstelnet
+Category: r2l
+Start_Time: 17:58:17
+Duration: 00:03:48
+Attacker: 209.001.012.046
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{20} 
+
+ID: 43.191217
+Date: 03/31/1999
+Name: snmpget
+Category: r2l
+Start_Time: 19:12:16
+Duration: 00:16:57
+Attacker: 207.181.092.211
+Victim: 172.016.000.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 161/u{201} 
+
+ID: 44.080000
+Date: 04/01/1999
+Name: ntinfoscan
+Category: probe
+Start_Time: 08:00:03
+Duration: 00:16:01
+Attacker: 172.016.112.100
+Victim: 206.048.044.018
+Username: n/a
+Ports:
+	At_Attacker: 20{1}, 23{1}, 80{11}, 139{2} 
+	At_Victim: 1041{1} 
+
+ID: 44.080757
+Date: 04/01/1999
+Name: ipsweep
+Category: probe
+Start_Time: 08:07:11
+Duration: 00:01:32
+Attacker: 172.016.112.005, 172.016.112.010, 194.027.251.021
+Victim: 172.016.112.001-010, 194.027.251.021
+Username: n/a
+Ports:
+	At_Attacker: i{2} 
+	At_Victim: i{10} 
+
+ID: 44.082615
+Date: 04/01/1999
+Name: teardrop
+Category: dos
+Start_Time: 08:26:20
+Duration: 00:00:01
+Attacker: 172.016.118.060
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80/u{1} 
+
+ID: 44.083000
+Date: 04/01/1999
+Name: New_Attack_1999 (netbus)
+Category: r2l
+Start_Time: 08:35:11
+Duration: 00:06:04
+Attacker: 135.008.060.182
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 137/u{1} 
+	At_Victim: i{1}, 25{1}, 12345-12346{1} 
+
+ID: 44.091807
+Date: 04/01/1999
+Name: New_Attack_1999 (sshtrojan)
+Category: r2l
+Start_Time: 09:38:15
+Duration: 00:10:30
+Attacker: 195.073.151.050
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 22{2} 
+
+ID: 44.110000
+Date: 04/01/1999
+Name: New_Attack_1999 (dosnuke)
+Category: dos
+Start_Time: 11:00:07
+Duration: 00:01:33
+Attacker: 172.016.115.234
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 139{1} 
+
+ID: 44.114500
+Date: 04/01/1999
+Name: ncftp
+Category: r2l
+Start_Time: 11:45:14
+Duration: 00:01:28
+Attacker: 172.016.118.040
+Victim: 172.016.114.050
+Username: bramy anonymous
+Ports:
+	At_Attacker: 20{7}, 21{1} 
+	At_Victim: 23{1} 
+
+ID: 44.120500
+Date: 04/01/1999
+Name: New_Attack_1999 (ppmarcro)
+Category: r2l
+Start_Time: 12:12:38
+Duration: 00:13:45
+Attacker: 194.027.251.021
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 137/u{1} 
+	At_Victim: i{1}, 25{1}, 80{5} 
+
+ID: 44.124700
+Date: 04/01/1999
+Name: guest
+Category: r2l
+Start_Time: 12:56:47
+Duration: 00:02:42
+Attacker: 153.107.252.061
+Victim: 172.016.112.050
+Username: guest 2270 2189 872
+Ports:
+	At_Attacker: 
+	At_Victim: 23{9} 
+
+ID: 44.130700
+Date: 04/01/1999
+Name: xlock
+Category: r2l
+Start_Time: 13:08:19
+Duration: 00:00:25
+Attacker: 209.012.013.144
+Victim: 172.016.114.168
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 6000{2} 
+
+ID: 44.131529
+Date: 04/01/1999
+Name: guesspop
+Category: r2l
+Start_Time: 13:15:16
+Duration: 00:02:11
+Attacker: 202.247.224.089
+Victim: 172.016.112.194
+Username: Bad
+Ports:
+	At_Attacker: 
+	At_Victim: 110{30} 
+
+ID: 44.161242
+Date: 04/01/1999
+Name: phf
+Category: r2l
+Start_Time: 16:12:15
+Duration: 00:00:01
+Attacker: 202.072.001.077
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 44.164944
+Date: 04/01/1999
+Name: New_Attack_1999 (sshprocesstable)
+Category: dos
+Start_Time: 16:49:15
+Duration: 00:08:21
+Attacker: 172.016.118.020
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 22{490} 
+
+ID: 44.183234
+Date: 04/01/1999
+Name: mailbomb
+Category: dos
+Start_Time: 18:32:17
+Duration: 00:10:07
+Attacker: 194.027.251.021
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{500} 
+
+ID: 44.201454
+Date: 04/01/1999
+Name: sqlattack
+Category: r2l
+Start_Time: 20:14:17
+Duration: 00:01:08
+Attacker: 194.007.248.153
+Victim: 172.016.112.194
+Username: db3
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 45.084547
+Date: 04/02/1999
+Name: smurf
+Category: dos
+Start_Time: 08:45:18
+Duration: 00:00:02
+Attacker: 001.012.120.006
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{253} 
+
+ID: 45.090000
+Date: 04/02/1999
+Name: New_Attack_1999 (arppoison)
+Category: probe
+Start_Time: 09:00:10
+Duration: 00:12:51
+Attacker: 206.047.098.151
+Victim: 172.016.114.050
+Username: randip
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 45.095541
+Date: 04/02/1999
+Name: New_Attack_1999 (sshtrojan)
+Category: r2l
+Start_Time: 09:55:15
+Duration: 00:10:29
+Attacker: 195.073.151.050
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 22{2} 
+
+ID: 45.100334
+Date: 04/02/1999
+Name: ipsweep
+Category: probe
+Start_Time: 10:03:10
+Duration: 00:15:01
+Attacker: 172.016.112.005, 172.016.112.010, 194.007.248.153
+Victim: 172.016.112.001-010, 194.007.248.153
+Username: n/a
+Ports:
+	At_Attacker: i{2} 
+	At_Victim: i{10} 
+
+ID: 45.103937
+Date: 04/02/1999
+Name: xlock
+Category: r2l
+Start_Time: 10:42:04
+Duration: 00:01:19
+Attacker: 139.134.061.042
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 6000{4} 
+
+ID: 45.105138
+Date: 04/02/1999
+Name: named
+Category: r2l
+Start_Time: 10:53:24
+Duration: 00:03:35
+Attacker: 194.007.248.153
+Victim: 172.016.112.020
+Username: n/a
+Ports:
+	At_Attacker: 6000{2} 
+	At_Victim: 53{1} 
+
+ID: 45.111010
+Date: 04/02/1999
+Name: portsweep
+Category: probe
+Start_Time: 11:10:15
+Duration: 00:04:31
+Attacker: 208.240.124.083
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: i{2} 
+	At_Victim: i{2}, 17/u{1}, 19/u{2}, 23/u{1}, 37/u{2}, 
+	514/u{2} 
+
+ID: 45.114500
+Date: 04/02/1999
+Name: ncftp
+Category: r2l
+Start_Time: 11:45:13
+Duration: 00:01:29
+Attacker: 172.016.118.070
+Victim: 172.016.114.050
+Username: anonymous
+Ports:
+	At_Attacker: 20{6}, 21{1} 
+	At_Victim: 23{1} 
+
+ID: 45.114900
+Date: 04/02/1999
+Name: New_Attack_1999 (netbus)
+Category: r2l
+Start_Time: 11:51:00
+Duration: 00:04:13
+Attacker: 209.001.012.046
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 137/u{1} 
+	At_Victim: i{1}, 25{1}, 12345-12346{1} 
+
+ID: 45.123234
+Date: 04/02/1999
+Name: mailbomb
+Category: dos
+Start_Time: 12:32:17
+Duration: 00:12:59
+Attacker: 202.072.001.077
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 4338{1} 
+	At_Victim: 25{500} 
+
+ID: 45.130542
+Date: 04/02/1999
+Name: named
+Category: r2l
+Start_Time: 13:49:30
+Duration: 00:00:58
+Attacker: 195.073.151.050
+Victim: 172.016.112.020
+Username: n/a
+Ports:
+	At_Attacker: 6000{1} 
+	At_Victim: 53{1} 
+
+ID: 45.140000
+Date: 04/02/1999
+Name: ipsweep
+Category: probe
+Start_Time: 14:00:15
+Duration: 00:08:39
+Attacker: 128.223.199.068, 172.016.114.050, 204.071.051.016, 204.233.047.021, 207.114.237.057, 209.001.012.046
+Victim: 172.016.114.001, 172.016.114.003-005, 172.016.114.050, 204.233.047.021
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{5} 
+
+ID: 45.162148
+Date: 04/02/1999
+Name: loadmodule
+Category: u2r
+Start_Time: 16:21:16
+Duration: 00:05:41
+Attacker: 194.027.251.021
+Victim: 172.016.113.050
+Username: wardc
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 45.165009
+Date: 04/02/1999
+Name: New_Attack_1999 (sechole)
+Category: u2r
+Start_Time: 16:50:15
+Duration: 00:45:11
+Attacker: 195.115.218.108
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20{2}, 21{1}, 23{2} 
+
+ID: 45.181011
+Date: 04/02/1999
+Name: portsweep
+Category: probe
+Start_Time: 18:10:15
+Duration: 00:00:05
+Attacker: 202.049.244.010
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 7{1}, 19{1}, 21-22{1}, 25{1} 
+
+ID: 45.192523
+Date: 04/02/1999
+Name: ipsweep
+Category: probe
+Start_Time: 19:25:14
+Duration: 00:42:18
+Attacker: 172.016.112.005, 172.016.112.010, 172.016.112.050, 172.016.112.100, 172.016.112.194, 172.016.112.207, 172.016.113.105, 172.016.114.207, 194.007.248.153
+Victim: 172.016.112.001-254, 194.007.248.153
+Username: n/a
+Ports:
+	At_Attacker: i{8} 
+	At_Victim: i{254} 
+
+ID: 45.203400
+Date: 04/02/1999
+Name: New_Attack_1999 (secret)
+Category: data
+Start_Time: 20:34:00
+Duration: 00:02:00
+Attacker: console
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 51.083800
+Date: 04/05/1999
+Name: pod
+Category: dos
+Start_Time: 08:39:52
+Duration: 00:00:10
+Attacker: 202.077.162.213
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{1} 
+
+ID: 51.084334
+Date: 04/05/1999
+Name: portsweep
+Category: probe
+Start_Time: 08:43:17
+Duration: 00:03:53
+Attacker: 172.016.118.010
+Victim: 192.168.001.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 79-80{1}, 143{1} 
+
+ID: 51.085000
+Date: 04/05/1999
+Name: pod
+Category: dos
+Start_Time: 08:48:33
+Duration: 00:00:31
+Attacker: 202.077.162.213
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: i{1} 
+	At_Victim: i{1} 
+
+ID: 51.085947
+Date: 04/05/1999
+Name: New_Attack_1999 (warezclient)
+Category: dos
+Start_Time: 08:59:16
+Duration: 00:00:41
+Attacker: 207.075.239.115
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1} 
+
+ID: 51.093123
+Date: 04/05/1999
+Name: smurf
+Category: dos
+Start_Time: 09:33:00
+Duration: 00:02:00
+Attacker: login.session.x.x
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{1531} 
+
+ID: 51.094334
+Date: 04/05/1999
+Name: portsweep
+Category: probe
+Start_Time: 09:43:11
+Duration: 00:03:43
+Attacker: 208.240.124.083
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 1-6{1}, 7{2}, 8{1}, 9{2}, 10-12{1}, 
+	13{2}, 14-18{1}, 19{2}, 20{1}, 21-23{2}, 
+	24{1}, 25{2}, 26-36{1}, 37{2}, 38-52{1}, 
+	54-78{1}, 79{2}, 80-100{1} 
+
+ID: 51.102700
+Date: 04/05/1999
+Name: apache2
+Category: dos
+Start_Time: 10:29:22
+Duration: 00:17:37
+Attacker: 202.077.162.213
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 1389{1} 
+	At_Victim: 80{1014} 
+
+ID: 51.105811
+Date: 04/05/1999
+Name: guesstelnet
+Category: r2l
+Start_Time: 10:58:14
+Duration: 00:03:20
+Attacker: 192.005.041.239
+Victim: 172.016.118.080
+Username: n/a
+Ports:
+	At_Attacker: 37{1} 
+	At_Victim: 23{20} 
+
+ID: 51.114500
+Date: 04/05/1999
+Name: New_Attack_1999 (dosnuke)
+Category: dos
+Start_Time: 11:45:27
+Duration: 00:01:33
+Attacker: 172.016.115.234
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 139{1} 
+
+ID: 51.120309
+Date: 04/05/1999
+Name: loadmodule
+Category: u2r
+Start_Time: 12:03:14
+Duration: 00:11:15
+Attacker: 172.016.114.207
+Victim: 172.016.113.050
+Username: elmoc
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 51.121101
+Date: 04/05/1999
+Name: ffbconfig
+Category: u2r
+Start_Time: 12:11:18
+Duration: 00:12:28
+Attacker: 135.013.216.191
+Victim: 172.016.112.050
+Username: henningm
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 51.131803
+Date: 04/05/1999
+Name: smurf
+Category: dos
+Start_Time: 13:18:12
+Duration: 00:00:01
+Attacker: 023.234.078.052
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{429} 
+
+ID: 51.133019
+Date: 04/05/1999
+Name: New_Attack_1999 (arppoison)
+Category: probe
+Start_Time: 13:30:14
+Duration: 00:14:37
+Attacker: 152.169.215.104
+Victim: 172.016.112.100
+Username: abramh
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 51.140100
+Date: 04/05/1999
+Name: apache2
+Category: dos
+Start_Time: 14:05:43
+Duration: 00:11:09
+Attacker: 152.169.215.104
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 2275-2277{1}, 2358{2}, 2639{2}, 2750{2}, 2759{2}, 
+	2943{2}, 3380{2}, 3483{2}, 3662{2}, 3906{2} 
+	
+	At_Victim: 80{374} 
+
+ID: 51.142100
+Date: 04/05/1999
+Name: pod
+Category: dos
+Start_Time: 14:22:30
+Duration: 00:00:01
+Attacker: 010.011.022.033
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{1} 
+
+ID: 51.144601
+Date: 04/05/1999
+Name: imap
+Category: r2l
+Start_Time: 14:46:19
+Duration: 00:00:10
+Attacker: 172.016.117.103
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 143{1} 
+
+ID: 51.150000
+Date: 04/05/1999
+Name: ipsweep
+Category: probe
+Start_Time: 15:00:16
+Duration: 00:15:21
+Attacker: 128.223.199.068, 172.016.113.050, 204.071.051.016, 204.233.047.021, 207.114.237.057, 209.001.012.046
+Victim: 172.016.113.001, 172.016.113.003-005, 172.016.113.050, 204.233.047.021
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{5} 
+
+ID: 51.163200
+Date: 04/05/1999
+Name: dict
+Category: r2l
+Start_Time: 16:32:17
+Duration: 00:16:35
+Attacker: 172.016.118.010
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{86} 
+
+ID: 51.171917
+Date: 04/05/1999
+Name: syslogd
+Category: dos
+Start_Time: 17:19:10
+Duration: 00:00:01
+Attacker: 172.005.003.005
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 514/u{1} 
+
+ID: 51.180445
+Date: 04/05/1999
+Name: neptune
+Category: dos
+Start_Time: 18:04:04
+Duration: 00:06:51
+Attacker: 010.020.030.040
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 1-1024{20} 
+
+ID: 51.183623
+Date: 04/05/1999
+Name: crashiis
+Category: dos
+Start_Time: 18:36:11
+Duration: 00:00:07
+Attacker: 202.072.001.077
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 51.185613
+Date: 04/05/1999
+Name: New_Attack_1999 (ls)
+Category: probe
+Start_Time: 18:57:21
+Duration: 00:00:01
+Attacker: 195.073.151.050
+Victim: 172.016.112.020
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 53{1} 
+
+ID: 51.194715
+Date: 04/05/1999
+Name: New_Attack_1999 (dosnuke)
+Category: dos
+Start_Time: 19:48:01
+Duration: 00:01:41
+Attacker: 206.048.044.018
+Victim: 172.016.115.234
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 139{1} 
+
+ID: 51.200037
+Date: 04/05/1999
+Name: udpstorm
+Category: dos
+Start_Time: 20:00:27
+Duration: 00:15:00
+Attacker: 172.016.112.050
+Victim: 172.016.113.*
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 7/u{1} 
+
+ID: 51.201715
+Date: 04/05/1999
+Name: selfping
+Category: dos
+Start_Time: 20:17:12
+Duration: 00:00:03
+Attacker: 135.013.216.191
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 51.204631
+Date: 04/05/1999
+Name: ncftp
+Category: r2l
+Start_Time: 20:46:13
+Duration: 00:01:29
+Attacker: 172.016.118.070
+Victim: 172.016.114.050
+Username: bramy anonymous
+Ports:
+	At_Attacker: 20{6}, 21{1}, 25{1} 
+	At_Victim: 23{1}, 113{1} 
+
+ID: 52.081109
+Date: 04/06/1999
+Name: New_Attack_1999 (tcpreset)
+Category: probe
+Start_Time: 08:11:15
+Duration: 00:10:50
+Attacker: 135.008.060.182
+Victim: 172.016.112.050
+Username: lucyj
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 52.083236
+Date: 04/06/1999
+Name: teardrop
+Category: dos
+Start_Time: 08:32:14
+Duration: 00:00:01
+Attacker: 207.230.054.203
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23/u{1} 
+
+ID: 52.085357
+Date: 04/06/1999
+Name: New_Attack_1999 (casesen)
+Category: u2r
+Start_Time: 08:53:17
+Duration: 00:49:38
+Attacker: 172.016.113.204
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20{3}, 21{1}, 23{2} 
+
+ID: 52.092200
+Date: 04/06/1999
+Name: xsnoop
+Category: r2l
+Start_Time: 09:19:01
+Duration: 00:01:12
+Attacker: 194.007.248.153
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 6000{1} 
+
+ID: 52.094514
+Date: 04/06/1999
+Name: selfping
+Category: dos
+Start_Time: 09:45:13
+Duration: 00:00:03
+Attacker: 192.182.091.233
+Victim: 172.016.112.050
+Username: bramy
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 52.100738
+Date: 04/06/1999
+Name: xterm1
+Category: u2r
+Start_Time: 10:07:18
+Duration: 00:40:43
+Attacker: 152.169.215.104
+Victim: 172.016.112.194
+Username: charlotk
+Ports:
+	At_Attacker: 
+	At_Victim: 20{2}, 21{1}, 23{1} 
+
+ID: 52.101901
+Date: 04/06/1999
+Name: ftpwrite
+Category: r2l
+Start_Time: 10:19:16
+Duration: 00:14:04
+Attacker: 172.016.114.207
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1}, 513{1} 
+
+ID: 52.103409
+Date: 04/06/1999
+Name: back
+Category: dos
+Start_Time: 11:31:21
+Duration: 00:20:38
+Attacker: 206.048.044.050
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 2222{1}, 2234{1}, 2284{1} 
+	At_Victim: 80{47} 
+
+ID: 52.112045
+Date: 04/06/1999
+Name: ps
+Category: u2r
+Start_Time: 11:20:09
+Duration: 01:40:51
+Attacker: 199.227.099.125
+Victim: 172.016.112.050
+Username: bramy root `bram^H^H
+Ports:
+	At_Attacker: 80{1}, 6000{2} 
+	At_Victim: 23{2} 
+
+ID: 52.113855
+Date: 04/06/1999
+Name: neptune
+Category: dos
+Start_Time: 11:38:04
+Duration: 00:13:41
+Attacker: 010.020.030.040
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 1-1024{40} 
+
+ID: 52.120600
+Date: 04/06/1999
+Name: httptunnel
+Category: r2l
+Start_Time: 12:06:32
+Duration: 00:03:30
+Attacker: 172.016.112.050
+Victim: 196.037.075.158
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 8000{8} 
+
+ID: 52.125501
+Date: 04/06/1999
+Name: eject
+Category: u2r
+Start_Time: 12:55:14
+Duration: 00:16:32
+Attacker: 152.169.215.104
+Victim: 172.016.112.050
+Username: haraldl bramy
+Ports:
+	At_Attacker: 20{4}, 21{1}, 25{1} 
+	At_Victim: 23{1} 
+
+ID: 52.130655
+Date: 04/06/1999
+Name: pod
+Category: dos
+Start_Time: 13:06:00
+Duration: 00:00:30
+Attacker: 166.102.114.043
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 52.132827
+Date: 04/06/1999
+Name: New_Attack_1999 (yaga)
+Category: u2r
+Start_Time: 13:28:11
+Duration: 00:42:19
+Attacker: 194.007.248.153
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{2}, 80{1} 
+
+ID: 52.135003
+Date: 04/06/1999
+Name: crashiis
+Category: dos
+Start_Time: 13:50:03
+Duration: 00:00:05
+Attacker: 194.007.248.153
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 52.140207
+Date: 04/06/1999
+Name: New_Attack_1999 (ppmarcro)
+Category: r2l
+Start_Time: 14:26:26
+Duration: 00:12:52
+Attacker: 199.174.194.016
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 137/u{1} 
+	At_Victim: i{1}, 25{1}, 80{12} 
+
+ID: 52.141200
+Date: 04/06/1999
+Name: syslogd
+Category: dos
+Start_Time: 14:13:56
+Duration: 00:00:01
+Attacker: 172.003.045.001
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 514/u{1} 
+
+ID: 52.142452
+Date: 04/06/1999
+Name: perl
+Category: u2r
+Start_Time: 14:24:17
+Duration: 00:14:47
+Attacker: 207.103.080.104
+Victim: 172.016.114.207
+Username: grzegors
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 52.162435
+Date: 04/06/1999
+Name: fdformat
+Category: u2r
+Start_Time: 16:24:15
+Duration: 01:00:00
+Attacker: 196.038.075.158
+Victim: 172.016.112.050
+Username: victors janelles
+Ports:
+	At_Attacker: 
+	At_Victim: 20{5}, 21{1}, 23{1} 
+
+ID: 52.165435
+Date: 04/06/1999
+Name: queso
+Category: probe
+Start_Time: 16:54:20
+Duration: 00:00:51
+Attacker: 199.227.099.125
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{7} 
+
+ID: 52.181637
+Date: 04/06/1999
+Name: neptune
+Category: dos
+Start_Time: 18:16:05
+Duration: 00:03:26
+Attacker: 010.020.030.040
+Victim: 192.168.001.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 1-1024{10} 
+
+ID: 52.205605
+Date: 04/06/1999
+Name: New_Attack_1999 (dosnuke)
+Category: dos
+Start_Time: 20:57:03
+Duration: 00:01:33
+Attacker: 172.016.115.234
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 139{1} 
+
+ID: 52.211313
+Date: 04/06/1999
+Name: ipsweep
+Category: probe
+Start_Time: 21:15:54
+Duration: 00:19:30
+Attacker: 195.073.151.050
+Victim: 172.016.000.001, 172.016.112.010, 172.016.112.020, 172.016.112.050, 172.016.112.100, 172.016.112.149, 172.016.112.194, 172.016.112.200, 172.016.112.207, 172.016.113.050, 172.016.113.084, 172.016.113.105, 172.016.113.204, 172.016.114.050, 172.016.114.148, 172.016.114.168-169, 172.016.114.207, 172.016.115.005, 172.016.115.087, 172.016.115.234, 172.016.116.044, 172.016.116.194, 172.016.116.201, 172.016.117.052, 172.016.117.103, 172.016.117.111, 172.016.117.132, 172.016.118.010, 172.016.118.020, 172.016.118.030, 172.016.118.040, 172.016.118.050, 172.016.118.060, 172.016.118.070, 172.016.118.080, 172.016.118.090, 172.016.118.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{195} 
+
+ID: 52.214522
+Date: 04/06/1999
+Name: ncftp
+Category: r2l
+Start_Time: 21:45:02
+Duration: 00:01:28
+Attacker: 172.016.118.020
+Victim: 172.016.114.050
+Username: bramy anonymous
+Ports:
+	At_Attacker: 20{6}, 21{1}, 25{1} 
+	At_Victim: 23{1} 
+
+ID: 52.050813
+Date: 04/07/1999
+Name: udpstorm
+Category: dos
+Start_Time: 05:30:38
+Duration: 00:00:01
+Attacker: 172.016.112.050
+Victim: 172.016.113.*
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 7/u{1} 
+
+ID: 53.045454
+Date: 04/08/1999
+Name: selfping
+Category: dos
+Start_Time: 05:04:19
+Duration: 00:01:02
+Attacker: 135.008.060.182
+Victim: 172.016.112.050
+Username: bramy
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 53.084346
+Date: 04/07/1999
+Name: xlock
+Category: r2l
+Start_Time: 08:46:02
+Duration: 00:00:25
+Attacker: 152.204.242.193
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 6000{1} 
+
+ID: 53.085717
+Date: 04/07/1999
+Name: phf
+Category: r2l
+Start_Time: 08:58:16
+Duration: 00:00:01
+Attacker: 209.001.012.046
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 53.092039
+Date: 04/07/1999
+Name: New_Attack_1999 (tcpreset)
+Category: probe
+Start_Time: 09:44:00
+Duration: 00:15:00
+Attacker: hobbes_console
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 53.094800
+Date: 04/07/1999
+Name: New_Attack_1999 (netbus)
+Category: r2l
+Start_Time: 09:50:33
+Duration: 02:14:28
+Attacker: 209.167.099.071
+Victim: 172.016.112.100
+Username: Path:
+Ports:
+	At_Attacker: 
+	At_Victim: 25{1}, 12345-12346{1} 
+
+ID: 53.102617
+Date: 04/07/1999
+Name: back
+Category: dos
+Start_Time: 10:26:12
+Duration: 00:00:04
+Attacker: 152.204.242.193
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{40} 
+
+ID: 53.110500
+Date: 04/07/1999
+Name: New_Attack_1999 (netcat)
+Category: r2l
+Start_Time: 11:06:56
+Duration: 00:30:11
+Attacker: 172.016.113.084
+Victim: 197.182.091.233
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{1} 
+
+ID: 53.110516
+Date: 04/07/1999
+Name: queso
+Category: probe
+Start_Time: 11:32:16
+Duration: 00:13:05
+Attacker: 197.182.091.233
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{7} 
+
+ID: 53.123735
+Date: 04/07/1999
+Name: portsweep
+Category: probe
+Start_Time: 12:37:10
+Duration: 00:09:32
+Attacker: 204.097.153.043
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 1{2}, 2-6{1}, 7{2}, 8{1}, 9{2}, 
+	10{1} 
+
+ID: 53.133203
+Date: 04/07/1999
+Name: perl
+Category: u2r
+Start_Time: 13:33:17
+Duration: 00:10:46
+Attacker: 209.017.189.098
+Victim: 172.016.112.207
+Username: doireano argument /home/doireano/NewProjects/Working/Solaris/Chuck/rlogin.c
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 53.134015
+Date: 04/07/1999
+Name: queso
+Category: probe
+Start_Time: 13:40:24
+Duration: 00:19:10
+Attacker: 172.016.114.169
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{7} 
+
+ID: 53.144800
+Date: 04/07/1999
+Name: snmpget
+Category: r2l
+Start_Time: 14:49:35
+Duration: 00:01:45
+Attacker: 207.230.054.203
+Victim: 172.016.000.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 161/u{21} 
+
+ID: 53.150110
+Date: 04/07/1999
+Name: processtable
+Category: dos
+Start_Time: 15:01:16
+Duration: 00:31:05
+Attacker: 172.016.117.052
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{378} 
+
+ID: 53.152648
+Date: 04/07/1999
+Name: back
+Category: dos
+Start_Time: 15:26:15
+Duration: 00:01:49
+Attacker: 194.027.251.021
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{40} 
+
+ID: 53.155432
+Date: 04/07/1999
+Name: ffbconfig
+Category: u2r
+Start_Time: 16:05:00
+Duration: 06:45:59
+Attacker: 195.115.218.108
+Victim: 172.016.112.050
+Username: bellej tristank karstenf
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1}, 25{1} 
+
+ID: 53.171350
+Date: 04/07/1999
+Name: apache2
+Category: dos
+Start_Time: 17:13:17
+Duration: 00:08:39
+Attacker: 172.016.117.052
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{412} 
+
+ID: 53.195130
+Date: 04/07/1999
+Name: portsweep
+Category: probe
+Start_Time: 19:51:19
+Duration: 00:01:48
+Attacker: 209.030.071.165
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 1-52{1}, 54-100{1} 
+
+ID: 54.082003
+Date: 04/08/1999
+Name: ps
+Category: u2r
+Start_Time: 08:33:00
+Duration: 00:03:00
+Attacker: console
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 54.090101
+Date: 04/08/1999
+Name: phf
+Category: r2l
+Start_Time: 09:01:08
+Duration: 00:31:46
+Attacker: 206.048.044.050
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{8} 
+
+ID: 54.091200
+Date: 04/08/1999
+Name: New_Attack_1999 (casesen)
+Category: u2r
+Start_Time: 09:16:20
+Duration: 02:03:47
+Attacker: 172.016.112.149
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20{4}, 21{1}, 23{2} 
+
+ID: 54.102102
+Date: 04/08/1999
+Name: New_Attack_1999 (ntfsdos)
+Category: r2l
+Start_Time: 10:21:00
+Duration: 00:15:00
+Attacker: 172.16.112.100
+Victim: 172.16.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: i{1} 
+
+ID: 54.103459
+Date: 04/08/1999
+Name: portsweep
+Category: probe
+Start_Time: 10:34:11
+Duration: 00:05:44
+Attacker: 153.010.008.174
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 22{1}, 79{1}, 514{1} 
+
+ID: 54.110416
+Date: 04/08/1999
+Name: ntinfoscan
+Category: probe
+Start_Time: 11:26:37
+Duration: 00:16:09
+Attacker: 206.048.044.018
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1}, 23{1}, 80{11}, 139{2} 
+
+ID: 54.115000
+Date: 04/08/1999
+Name: New_Attack_1999 (yaga)
+Category: u2r
+Start_Time: 11:52:05
+Duration: 00:15:39
+Attacker: 194.007.248.153
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{2}, 80{1} 
+
+ID: 54.115701
+Date: 04/08/1999
+Name: crashiis
+Category: dos
+Start_Time: 11:57:01
+Duration: 00:00:03
+Attacker: 194.007.248.153
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 54.120600
+Date: 04/08/1999
+Name: httptunnel
+Category: r2l
+Start_Time: 12:06:30
+Duration: 00:03:31
+Attacker: 172.016.112.050
+Victim: 196.037.075.158
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 8000{9} 
+
+ID: 54.125758
+Date: 04/08/1999
+Name: fdformat
+Category: u2r
+Start_Time: 12:57:17
+Duration: 00:40:10
+Attacker: 194.027.251.021
+Victim: 172.016.112.050
+Username: doireano valeskad emerye eberharm rodolphl
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1}, 23{1} 
+
+ID: 54.145832
+Date: 04/08/1999
+Name: satan
+Category: probe
+Start_Time: 14:58:29
+Duration: 00:02:12
+Attacker: 209.074.060.168
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 1-9999{1}, 1/u-1303/u{1} 
+
+ID: 54.155338
+Date: 04/08/1999
+Name: teardrop
+Category: dos
+Start_Time: 15:53:18
+Duration: 00:00:01
+Attacker: 199.227.099.125
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23/u{1} 
+
+ID: 54.160341
+Date: 04/08/1999
+Name: New_Attack_1999 (sechole)
+Category: u2r
+Start_Time: 16:03:15
+Duration: 00:21:56
+Attacker: 208.240.124.083
+Victim: 172.016.112.100
+Username: ansgarz
+Ports:
+	At_Attacker: 
+	At_Victim: 20{2}, 21{1}, 23{2} 
+
+ID: 54.170132
+Date: 04/08/1999
+Name: resetscan
+Category: probe
+Start_Time: 17:01:19
+Duration: 00:01:02
+Attacker: 172.016.117.103
+Victim: 172.016.112.*
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 21{1} 
+
+ID: 54.171643
+Date: 04/08/1999
+Name: ipsweep
+Category: probe
+Start_Time: 17:16:10
+Duration: 00:01:31
+Attacker: 172.016.112.005, 172.016.112.010, 207.136.086.223
+Victim: 172.016.112.001-010, 207.136.086.223
+Username: n/a
+Ports:
+	At_Attacker: i{2} 
+	At_Victim: i{10} 
+
+ID: 54.175007
+Date: 04/08/1999
+Name: snmpget
+Category: r2l
+Start_Time: 17:50:12
+Duration: 00:05:06
+Attacker: 194.027.251.021
+Victim: 172.016.000.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 161/u{61} 
+
+ID: 54.183002
+Date: 04/08/1999
+Name: ntinfoscan
+Category: probe
+Start_Time: 18:31:00
+Duration: 00:16:11
+Attacker: 206.048.044.018
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1}, 23{1}, 80{11}, 139{2} 
+
+ID: 54.190707
+Date: 04/08/1999
+Name: New_Attack_1999 (ls)
+Category: probe
+Start_Time: 19:08:31
+Duration: 00:00:01
+Attacker: 209.012.013.144
+Victim: 172.016.112.020
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 53{1} 
+
+ID: 54.194108
+Date: 04/08/1999
+Name: New_Attack_1999 (warezclient)
+Category: dos
+Start_Time: 19:41:14
+Duration: 00:00:41
+Attacker: 209.030.070.014
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1} 
+
+ID: 54.195951
+Date: 04/09/1999
+Name: mscan
+Category: probe
+Start_Time: 19:58:59
+Duration: 04:03:05
+Attacker: 207.136.086.223
+Victim: 172.016.112.010, 172.016.112.020, 172.016.112.050, 172.016.112.100, 172.016.112.149, 172.016.112.194, 172.016.112.207, 172.016.113.050, 172.016.113.084, 172.016.113.105, 172.016.113.204, 172.016.114.050, 172.016.114.148, 172.016.114.168-169, 172.016.114.207, 172.016.115.005, 172.016.115.087, 172.016.115.234, 172.016.116.044, 172.016.116.194, 172.016.116.201, 172.016.117.052, 172.016.117.103, 172.016.117.111, 172.016.117.132, 172.016.118.010, 172.016.118.020, 172.016.118.030, 172.016.118.040, 172.016.118.050, 172.016.118.060, 172.016.118.070, 172.016.118.080, 172.016.118.090, 172.016.118.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{32}, 25{16}, 79-80{16}, 110{48}, 111{15}, 
+	143{16}, 6000{16} 
+
+ID: 54.225131
+Date: 04/11/1999
+Name: New_Attack_1999 (arppoison)
+Category: probe
+Start_Time: 22:51:14
+Duration: 00:28:01
+Attacker: 135.013.216.191
+Victim: 172.016.112.100
+Username: abramh
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 55.080105
+Date: 04/09/1999
+Name: portsweep
+Category: probe
+Start_Time: 08:01:28
+Duration: 00:00:29
+Attacker: 172.016.113.050
+Victim: 206.048.044.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 34904{1}, 49826{1}, 50460{1} 
+
+ID: 55.080500
+Date: 04/09/1999
+Name: xsnoop
+Category: r2l
+Start_Time: 08:08:37
+Duration: 00:01:19
+Attacker: 194.027.251.021
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 6000{1} 
+
+ID: 55.081418
+Date: 04/09/1999
+Name: crashiis
+Category: dos
+Start_Time: 08:14:17
+Duration: 00:00:45
+Attacker: 172.016.117.111
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 55.082500
+Date: 04/09/1999
+Name: New_Attack_1999 (illegalsniffer)
+Category: probe
+Start_Time: 08:26:21
+Duration: 00:17:53
+Attacker: 172.016.112.098
+Victim: 172.016.112.*
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 55.084452
+Date: 04/09/1999
+Name: back
+Category: dos
+Start_Time: 08:44:16
+Duration: 00:01:49
+Attacker: 206.047.098.151
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{40} 
+
+ID: 55.085500
+Date: 04/09/1999
+Name: New_Attack_1999 (illegalsniffer)
+Category: probe
+Start_Time: 08:53:46
+Duration: 00:25:58
+Attacker: 172.016.112.097
+Victim: 172.016.112.*
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 55.085514
+Date: 04/09/1999
+Name: New_Attack_1999 (netcat)
+Category: r2l
+Start_Time: 08:57:31
+Duration: 03:07:21
+Attacker: 172.016.113.204
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{1}, 53{1} 
+
+ID: 55.091529
+Date: 04/09/1999
+Name: xterm
+Category: u2r
+Start_Time: 09:16:17
+Duration: 00:05:32
+Attacker: 194.027.251.021
+Victim: 172.016.112.207
+Username: alie
+Ports:
+	At_Attacker: 20-21{1} 
+	At_Victim: 23{1} 
+
+ID: 55.093137
+Date: 04/09/1999
+Name: portsweep
+Category: probe
+Start_Time: 09:31:11
+Duration: 00:06:41
+Attacker: 153.010.008.174
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: i{3} 
+	At_Victim: 17/u{1}, 53/u{1}, 513/u{1} 
+
+ID: 55.100600
+Date: 04/09/1999
+Name: anypw
+Category: r2l
+Start_Time: 10:45:00
+Duration: 00:15:00
+Attacker: 172.16.112.100
+Victim: 172.16.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{1} 
+
+ID: 55.100830
+Date: 04/09/1999
+Name: guest
+Category: r2l
+Start_Time: 10:08:13
+Duration: 00:00:52
+Attacker: 172.016.118.050
+Victim: 172.016.112.050
+Username: guest
+Ports:
+	At_Attacker: 
+	At_Victim: 23{9} 
+
+ID: 55.102000
+Date: 04/09/1999
+Name: New_Attack_1999 (tcpreset)
+Category: probe
+Start_Time: 10:20:00
+Duration: 00:05:00
+Attacker: hobbes_console
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 55.103001
+Date: 04/09/1999
+Name: perl
+Category: u2r
+Start_Time: 10:35:00
+Duration: 00:05:00
+Attacker: console
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+
+ID: 55.110800
+Date: 04/09/1999
+Name: New_Attack_1999 (framespoofer)
+Category: data
+Start_Time: 11:10:26
+Duration: 00:07:09
+Attacker: 194.027.251.021
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 80{3} 
+	At_Victim: 25{1} 
+
+ID: 55.115202
+Date: 04/09/1999
+Name: portsweep
+Category: probe
+Start_Time: 11:52:10
+Duration: 00:05:44
+Attacker: 206.186.080.111
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 7{2}, 9{2}, 19{2}, 79{2} 
+
+ID: 55.123412
+Date: 04/09/1999
+Name: sqlattack
+Category: r2l
+Start_Time: 12:34:15
+Duration: 00:01:02
+Attacker: 206.186.080.111
+Victim: 172.016.112.194
+Username: db3
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 55.124400
+Date: 04/09/1999
+Name: New_Attack_1999 (yaga)
+Category: u2r
+Start_Time: 12:44:38
+Duration: 00:17:42
+Attacker: 209.001.012.046
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{2}, 80{2} 
+
+ID: 55.125112
+Date: 04/09/1999
+Name: crashiis
+Category: dos
+Start_Time: 12:51:12
+Duration: 00:00:32
+Attacker: 209.001.012.046
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 55.125811
+Date: 04/09/1999
+Name: guesstelnet
+Category: r2l
+Start_Time: 12:58:11
+Duration: 00:10:03
+Attacker: 135.013.216.191
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 23{20} 
+
+ID: 55.125830
+Date: 04/09/1999
+Name: crashiis
+Category: dos
+Start_Time: 12:58:30
+Duration: 00:00:03
+Attacker: 209.001.012.046
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{1} 
+
+ID: 55.140643
+Date: 04/09/1999
+Name: syslogd
+Category: dos
+Start_Time: 14:06:15
+Duration: 00:00:01
+Attacker: 172.005.004.066
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 514/u{1} 
+
+ID: 55.141732
+Date: 04/09/1999
+Name: eject
+Category: u2r
+Start_Time: 14:17:28
+Duration: 00:04:18
+Attacker: 206.048.044.050
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1}, 23{1} 
+
+ID: 55.163447
+Date: 04/09/1999
+Name: land
+Category: dos
+Start_Time: 14:32:27
+Duration: 00:00:01
+Attacker: 172.016.113.050
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{1} 
+
+ID: 55.171917
+Date: 04/09/1999
+Name: syslogd
+Category: dos
+Start_Time: 14:56:30
+Duration: 00:00:01
+Attacker: 172.005.004.065
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 514/u{1} 
+
+ID: 55.172757
+Date: 04/09/1999
+Name: sendmail
+Category: r2l
+Start_Time: 17:27:15
+Duration: 00:00:11
+Attacker: 152.204.242.193
+Victim: 172.016.114.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 25{1} 
+
+ID: 55.174733
+Date: 04/09/1999
+Name: xterm
+Category: u2r
+Start_Time: 17:47:15
+Duration: 00:37:40
+Attacker: 202.072.001.077
+Victim: 172.016.113.105
+Username: Press joelo
+Ports:
+	At_Attacker: 
+	At_Victim: 20{2}, 21{1}, 23{1} 
+
+ID: 55.183012
+Date: 04/09/1999
+Name: neptune
+Category: dos
+Start_Time: 18:30:04
+Duration: 00:00:09
+Attacker: 011.021.031.041
+Victim: 172.016.113.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 21{400} 
+
+ID: 55.184715
+Date: 04/09/1999
+Name: perl
+Category: u2r
+Start_Time: 18:47:14
+Duration: 00:35:49
+Attacker: 172.016.112.194
+Victim: 172.016.114.050
+Username: yuvalt Name
+Ports:
+	At_Attacker: 
+	At_Victim: 23{1} 
+
+ID: 55.185233
+Date: 04/09/1999
+Name: New_Attack_1999 (warezclient)
+Category: dos
+Start_Time: 18:52:09
+Duration: 00:00:41
+Attacker: 206.047.098.151
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20-21{1} 
+
+ID: 55.202002
+Date: 04/09/1999
+Name: queso
+Category: probe
+Start_Time: 20:20:20
+Duration: 00:18:07
+Attacker: 205.160.208.190
+Victim: 172.016.000.001
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 80{7} 
+
+ID: 55.204925
+Date: 04/09/1999
+Name: New_Attack_1999 (casesen)
+Category: u2r
+Start_Time: 20:49:17
+Duration: 00:43:47
+Attacker: 204.071.051.016
+Victim: 172.016.112.100
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 20{3}, 21{1}, 23{2} 
+
+ID: 55.200530
+Date: 04/09/1999
+Name: New_Attack_1999 (secret)
+Category: data
+Start_Time: 20:05:30
+Duration: 00:10:00
+Attacker: console
+Victim: 172.016.112.050
+Username: n/a
+Ports:
+	At_Attacker: 
+	At_Victim: 
+

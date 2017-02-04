@@ -1,0 +1,21 @@
+@relation anomalous-traffic
+
+@attribute ts numeric
+@attribute pkts numeric
+@attribute ed numeric
+@attribute cd numeric
+@attribute lle numeric
+@attribute sampen numeric
+@attribute rec numeric
+@attribute det numeric
+@attribute ent numeric
+@attribute trend numeric
+@attribute lam numeric
+@attribute class {normal, anomaly}
+
+@data
+
+1276283100.0,1352,22,1.27845696785,0.00142024640395,0.0757137380015,0.000751314800902,1.0,-0.0,0.0,0.0,normal
+1276283145.0,1210,22,1.45762219409,0.00090178393182,0.0756990945076,0.000841042893188,1.0,-0.0,0.0,0.0,normal
+1276283370.0,1001,22,1.55109164801,0.0,0.0749491014496,0.00102040816327,1.0,-0.0,0.0,0.0,normal
+1276283415.0,1161,22,1.5060238587,-0.00225543228283,0.0555107946054,0.000877192982456,1.0,-0.0,0.0,0.0,normal

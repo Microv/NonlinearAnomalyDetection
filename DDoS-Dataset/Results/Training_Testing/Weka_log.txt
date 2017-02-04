@@ -1,0 +1,58 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.functions.LibSVM -- -S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -model /home/michele/bin/weka-3-8-0 -seed 1
+Relation:     anomalous-traffic-weka.filters.unsupervised.attribute.Remove-R1-2,6-10
+Instances:    7616
+Attributes:   4
+              cd
+              lle
+              sampen
+              class
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+Attribute mappings:
+
+Model attributes  	    Incoming attributes
+------------------	    ----------------
+(numeric) cd      	--> 3 (numeric) cd
+(numeric) lle     	--> 4 (numeric) lle
+(numeric) sampen  	--> 5 (numeric) sampen
+(nominal) class   	--> 11 (nominal) class
+
+
+Time taken to build model: 0.28 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.2 seconds
+
+=== Summary ===
+
+Correctly Classified Instances        3367               97.2278 %
+Incorrectly Classified Instances        96                2.7722 %
+Kappa statistic                          0.8185
+Mean absolute error                      0.0277
+Root mean squared error                  0.1665
+Relative absolute error                 27.0292 %
+Root relative squared error             55.1114 %
+Total Number of Instances             3463     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.996    0.257    0.974      0.996    0.985      0.826    0.869     0.974     normal
+                 0.743    0.004    0.949      0.743    0.833      0.826    0.869     0.729     anomaly
+Weighted Avg.    0.972    0.233    0.972      0.972    0.971      0.826    0.869     0.951     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3127   13 |    a = normal
+   83  240 |    b = anomaly
+
+

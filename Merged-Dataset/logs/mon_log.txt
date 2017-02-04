@@ -1,0 +1,27 @@
+Anomalous connection: 147.32.84.165 <-> 147.32.96.69
+Attack type: icmp (300kbps bandwith)
+Bot: rbot.exe
+
+----------------------------------------------------
+
+2017/01/06 12:33 start capture
+
+2017/01/06 13:34 start attack
+2017/01/06 13:42 stop attack
+
+2017/01/06 15:00 start attack
+2017/01/06 15:08 stop attack
+
+2017/01/06 18:00 start attack
+2017/01/06 18:08 stop attack
+
+2017/01/06 20:00 start attack
+2017/01/06 20:08 stop attack
+
+2017/01/06 21:53 start attack
+2017/01/06 22:01 stop attack
+
+2017/01/07 00:30 start attack
+2017/01/07 00:38 stop attack
+
+2017/01/07 12:33 stop capture
